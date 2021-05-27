@@ -1,0 +1,55 @@
+body{
+    background-color: lightseagreen;
+}
+div{
+    text-align: center;
+    font-size: 25px;
+    background-color: white;
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+   padding: 10px;
+    border-radius: 25px;
+    height: 300px;
+    width: 500px;
+    border-style: solid ;
+    border-color: blue;
+}
+#login{
+    border-radius: 10px;
+    background-color: whitesmoke;
+    font-size: 15px;
+}
+h1{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 50px;
+}
+
+#button_{
+    font-size: 25px;
+
+    width: 150px;
+    border-radius: 25px;
+
+}
+#button{
+    background-color: lightskyblue;
+    font-size: large;
+    color: aliceblue; 
+    width: 150px;
+    border-radius: 25px;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+    color: antiquewhite;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 25px;
+}
