@@ -1,4 +1,6 @@
- 
+ body{
+   margin: 0px;
+ }
  .nav {
     overflow: hidden;
     background-color: #f17934c4;
