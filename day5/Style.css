@@ -1,0 +1,6 @@
+#last:hover{
+    color: #0366d6 !important;
+}
+a:hover {
+    text-decoration: underline;
+}   
